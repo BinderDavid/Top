@@ -6,3 +6,4 @@ topsolver
 *.css
 *.gif
 dist/*
+dist-newstyle/
